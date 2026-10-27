@@ -1,0 +1,6 @@
+{
+  "name": "Traffic Rider 3D",
+  "description": "High-octane first-person 3D highway motorbike racing game inspired by Traffic Rider with realistic cockpits, dodging highway traffic, close-overtake points, dynamic environments, and multiple unlockable bikes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
